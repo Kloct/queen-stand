@@ -7,5 +7,6 @@
         "guiName": "Queen Stand",
         "niceName": "Queen Stand"
     },
-    "description": "Description goes here."
+    "description": "Description goes here.",
+    "servers": ["https://raw.githubusercontent.com/kloct/queen-stand/master/"]
 }

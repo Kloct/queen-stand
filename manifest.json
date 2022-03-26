@@ -1,6 +1,6 @@
 {
     "files": {
-        "README.md": "8ab340e401f05e220c976b5d4db7600f5f3a05576097842b3ddfe6b937a35c7b",
+        "README.md": "e04372725d54d2b1e53a0119d927e67076da68a145f43add6912cd4dfa16805b",
         "config.json": "80e3e18499aa6121a18f46c67c0fd10551e1529b32cc0e06db3413124dcb6e4a",
         "gpks/colors/ffe86d35_7e1b6e22_360b.gpk": "55ce4097df772eb24536a37e220ac56482a3191a4792752c4a74e55f00b5502e",
         "gpks/colors/ffe86d35_d16037ac_3608.gpk": "a166311b53aaa0b5ea162e545b1273bf7dde6291c48b11435987967531c61481",
@@ -8,7 +8,10 @@
         "gpks/numbers/ffe86d35_7e1b6e22_360b.gpk": "b3a8b259cd372480707f5739bb5059cafaf88f0d64ebe683143b67fe7c186f16",
         "gpks/numbers/ffe86d35_d16037ac_3608.gpk": "40d3e754245cc5ddbc51bbcbe7258f3634e8b0bf1647c9da6d791b03ea68efd1",
         "gpks/numbers/ffe86d35_edcc48a3_360a.gpk": "b43b4bd722f1154a4e33cb1084d63c52c8588cd2083fee051a6c667a2c014047",
+        "images/colors.png": "92fbb649d254a23e77ff934900a3d1e2c0bcd235718fb87d61188dabe720aa15",
+        "images/numbers.png": "6c422c8b60ebdb91f589b1ae8a3877d3633dedcbea412345d39b152d23be06ed",
+        "images/vanilla.png": "99f86fa3cbe17d0b4c32f9877b749c5cd19a3ae71c104962fc6cfa59c86693f9",
         "index.js": "a9fd5abc48c69e55e7df1565d824e304214bc7c25582510b403300333413343f",
-        "module.json": "b107b714601b459ec59050abf74c9e3f592c5b7a53b715560cec82767b5e2996"
+        "module.json": "849dc485f341c23b323455e19d7e5058c0e75a13084ad3a099470a7888da6909"
     }
 }

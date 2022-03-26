@@ -4,9 +4,10 @@ Changes the display of the effects you get during stand in Manaya's Core to be e
 
 ## Condiguration
 
-You can edit config.json and change the type to one of these two options.
+You can edit config.json and change the type to `colors` or `numbers`.
 
-| type | effect |
+| Type | Effect |
 | --- | --- |
-| numbers | effects will have numbers one them |
-| colors | effects colors will be easier to distinguish |
+| vanilla | ![test](./images/vanilla.png) |
+| `colors` | ![test](./images/colors.png) |
+| `numbers` | ![test](./images/numbers.png) |
