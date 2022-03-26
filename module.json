@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Queen Stand",
+    "category": "client",
+    "author": "Kloct",
+    "options": {
+        "guiName": "Queen Stand",
+        "niceName": "Queen Stand"
+    },
+    "description": "Description goes here."
+}
