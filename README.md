@@ -1,6 +1,6 @@
 # Queen Stand
 
-Changes the debuff icons for stand.
+Changes the debuff icons for Shandra Manaya's stand mechanic.
 
 ## Configuration
 
